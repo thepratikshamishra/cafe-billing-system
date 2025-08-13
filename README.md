@@ -17,7 +17,7 @@ This project demonstrates **Python basics** like dictionaries, lists, loops, use
 
 ## 📷 Demo Screenshot
 ![Demo Screenshot](screenshot.png)  
-*(Replace with your actual screenshot)*
+
 
 ---
 
