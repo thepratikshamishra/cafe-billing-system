@@ -34,14 +34,20 @@ cd cafe-billing-system
 python main.py
 ```
 ---
-##📂 Project Structure
-**cafe-billing-system/
+
+## 📂 Project Structure
+**cafe-billing-system/**
+
 │── main.py      # Main application code
 │── README.md    # Project documentation
-**---
 
-##📜 Author
-Pratiksha Mishra
+---
+
+## 📜 Author
+
+**Pratiksha Mishra**
+
 🌐 GitHub: thepratikshamishra
 💼 LinkedIn: Add your LinkedIn link here
+
 ---
