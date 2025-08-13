@@ -32,12 +32,12 @@ This project demonstrates **Python basics** like dictionaries, lists, loops, use
 git clone https://github.com/thepratikshamishra/cafe-billing-system.git
 cd cafe-billing-system
 python main.py
-
+```
+---
 ##📂 Project Structure
 cafe-billing-system/
 │── main.py      # Main application code
 │── README.md    # Project documentation
-```
 ---
 ##📜 Author
 Pratiksha Mishra
@@ -45,3 +45,4 @@ Pratiksha Mishra
 🌐 GitHub: thepratikshamishra
 
 💼 LinkedIn: Add your LinkedIn link here
+---
