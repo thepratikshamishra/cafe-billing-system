@@ -25,7 +25,7 @@ This project demonstrates **Python basics** like dictionaries, lists, loops, use
 - **Concepts Used:** Dictionaries, Lists, Loops, String Formatting, User Input Handling
 
 ---
-
+---
 ## 🚀 How to Run
 
 1️⃣ **Clone the repository**
@@ -38,7 +38,7 @@ python main.py
 cafe-billing-system/
 │── main.py      # Main application code
 │── README.md    # Project documentation
----bash
+---
 
 ##📜 Author
 Pratiksha Mishra
