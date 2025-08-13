@@ -38,10 +38,10 @@ python main.py
 cafe-billing-system/
 │── main.py      # Main application code
 │── README.md    # Project documentation
-
+---
 
 ##📜 Author
-**Pratiksha Mishra**
+Pratiksha Mishra
 
 🌐 GitHub: thepratikshamishra
 
