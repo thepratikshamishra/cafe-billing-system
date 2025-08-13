@@ -35,14 +35,13 @@ python main.py
 ```
 ---
 ##📂 Project Structure
-cafe-billing-system/
+**cafe-billing-system/
 │── main.py      # Main application code
 │── README.md    # Project documentation
----
+**---
+
 ##📜 Author
 Pratiksha Mishra
-
 🌐 GitHub: thepratikshamishra
-
 💼 LinkedIn: Add your LinkedIn link here
 ---
