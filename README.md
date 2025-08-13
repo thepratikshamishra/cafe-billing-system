@@ -34,13 +34,12 @@ cd cafe-billing-system
 python main.py
 ```
 ---
-
 ## 📂 Project Structure
-**cafe-billing-system/**
-
-│── main.py      # Main application code
-│── README.md    # Project documentation
-
+```perl
+cafe-billing-system/
+│── main.py       # Main application code
+│── README.md     # Project documentation
+```
 ---
 
 ## 📜 Author
