@@ -43,6 +43,6 @@ cafe-billing-system/
 **Pratiksha Mishra**
 
 🌐 GitHub: [thepratikshamishra](https://github.com/thepratikshamishra)  
-💼 LinkedIn: [Add your LinkedIn link here](https://www.linkedin.com/)
+💼 LinkedIn: [Pratiksha Mishra](www.linkedin.com/in/the-pratiksha-mishra)
 
 ---
