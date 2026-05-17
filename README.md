@@ -14,10 +14,6 @@ This project demonstrates **Python basics** like dictionaries, lists, loops, use
 - Formatted order summary output
 
 ---
-
-## 📷 Demo Screenshot
-![Demo Screenshot](screenshot.png)  
-
 ---
 
 ## 🛠 Tech Stack
