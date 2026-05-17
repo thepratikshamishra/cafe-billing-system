@@ -1,4 +1,5 @@
 # ☕ Cafe Billing System
+Beginner-friendly Python project for cafe order management and billing 
 
 A simple **Python console application** to manage cafe orders.  
 Users can view the menu, select multiple items with quantities, and receive a **detailed bill summary**.  
