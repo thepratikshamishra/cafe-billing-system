@@ -7,7 +7,7 @@ This project demonstrates **Python basics** like dictionaries, lists, loops, use
 
 ---
 
-## 📌 Features
+## 📌 Features                  
 - Display cafe menu with prices
 - Order multiple items at once
 - Enter quantity for each item
