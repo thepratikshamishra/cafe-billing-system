@@ -1,7 +1,7 @@
 """
 Cafe Billing System
 -------------------
-Author: Pratiksha Mishra
+Author: Pratiksha Mishra 
 GitHub: https://github.com/thepratikshamishra
 Description:
     A simple console-based Python application to manage cafe orders.
