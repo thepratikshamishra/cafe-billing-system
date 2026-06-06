@@ -10,7 +10,7 @@ Description:
        
 Features:
     - Display cafe menu
-    - Take multiple orders with quantities
+    - Take multiple orders with quantities.    
     - Calculate individual and total costs
     - Print formatted order summary
 """
