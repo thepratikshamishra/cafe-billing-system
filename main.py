@@ -7,7 +7,7 @@ Description:
     A simple console-based Python application to manage cafe orders.
     Users can view the menu, select multiple items with quantities,
     and get a detailed bill summary.
-    
+       
 Features:
     - Display cafe menu
     - Take multiple orders with quantities
