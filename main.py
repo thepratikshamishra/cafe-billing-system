@@ -15,7 +15,7 @@ Features:
     - Print formatted order summary
 """
 Menu={
-"soup" : 100  ,
+"soup" : 100  ,           
 "chai"  : 60  ,
 "fries" : 75   ,
 "pizza" : 10   ,
