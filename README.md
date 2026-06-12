@@ -11,7 +11,7 @@ This project demonstrates **Python basics** like dictionaries, lists, loops, use
 - Display cafe menu with prices   
 - Order multiple items at once
 - Enter quantity for each item
-- Automatic bill calculation
+- Automatic bill calculation 
 - Formatted order summary output
 
 ---
